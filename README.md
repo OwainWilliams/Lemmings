@@ -13,3 +13,6 @@ Level Codes:
 * 6: hcbsmgv
 * 7: jbkzqgs
 * 8: mmdmkkx
+* 9: skfknnb
+* 10: lxaljcp
+* 11: mtpctnp
